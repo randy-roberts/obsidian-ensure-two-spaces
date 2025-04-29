@@ -1,0 +1,13 @@
+/* Optional styling for the plugin */
+.two-spaces-indicator {
+  position: relative;
+}
+
+.two-spaces-indicator::after {
+  content: "··";
+  position: absolute;
+  right: 0;
+  opacity: 0.3;
+  color: var(--text-muted);
+  pointer-events: none;
+}
