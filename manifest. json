@@ -1,0 +1,10 @@
+{
+  "id": "ensure-two-spaces",
+  "name": "Ensure Two Spaces",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Ensures that every line in your markdown files ends with exactly two spaces, which creates soft line breaks in Markdown.",
+  "author": "Randy Roberts",
+  "authorUrl": "https://github.com/randy-roberts",
+  "isDesktopOnly": false
+}
